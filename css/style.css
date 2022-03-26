@@ -1,55 +1,45 @@
-body {
- background-color:#273469; 
-}
+body{
+ background-color:#273469;}
 
-header {
+header{
     text-align: center;
     color: #BAA1FA;
-    font-family: cardinal;
-    }
+    font-family: cardinal;}
     
 nav{
-display: flex;
-background: #BFBFE7;
-border:solid 3px black;
-}
+    display: flex;
+    background: #BFBFE7;
+    border:solid 3px black;}
 
 .link{
-    margin: auto;
-    }
+    margin: auto;}
 
 img{
     border: solid 5px #8360AB;
-    max-width: 60%
-}
+    max-width: 60%}
 
 main{
-text-align: center;
-font-family: cardinal;
-color:#F9F4FF;
-}
+    text-align: center;
+    font-family: cardinal;
+    color:#F9F4FF;}
 
 h2{
-    text-align: center
-}
+    text-align: center}
 
 li{
-    color: #8191CE
-}
+    color: #8191CE}
 
 .Me{
     background: #896FA5;
     text-align: left;
     border: solid 3px #F9F4FF;
-    margin: 0 10%
-}
+    margin: 0 10%}
 
 .IT{
      background: #9292F0;
     text-align: left;
     border: solid 3px #F9F4FF;
-    margin: 0 10%
-}
+    margin: 0 10%}
 
 
 .Job{
@@ -57,3 +47,30 @@ li{
     text-align: left;
     border: solid 3px #F9F4FF;
     margin: 0 10%;}
+
+.Profile{
+    background: #30646F;
+    text-align: left;
+    border: solid 3px #F9F4FF;
+    margin: 0 10%;}
+
+.Project{background: #455080;
+    text-align: left;
+    border: solid 3px #F9F4FF;
+    margin: 0 10%;}
+    
+section{
+    display: flex
+}
+
+.weapon{
+    text-align: center;
+    margin: auto}
+
+.spell{
+    text-align: center;
+    margin: auto}
+
+.item{
+    text-align: center;
+    margin: auto}
