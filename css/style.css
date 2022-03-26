@@ -1,0 +1,37 @@
+body {
+    background-color:#273469; 
+   }
+   
+   header {
+       text-align: center;
+       color: #BAA1FA;
+       font-family: cardinal;
+       }
+       
+   nav{
+   display: flex;
+   background: #BFBFE7;
+   border:solid 3px black;
+   }
+   
+   .link{
+       margin: auto;
+       }
+   
+   img{
+       border: solid 5px #8360AB
+   }
+   
+   main{
+   text-align: center;
+   font-family: cardinal;
+   color:#F9F4FF;
+   }
+   
+   li{
+       color: #8191CE
+   }
+   
+   .Me{
+       background: #896FA5
+   }   
