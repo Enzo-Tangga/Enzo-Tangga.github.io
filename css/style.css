@@ -1,37 +1,59 @@
 body {
-    background-color:#273469; 
-   }
-   
-   header {
-       text-align: center;
-       color: #BAA1FA;
-       font-family: cardinal;
-       }
-       
-   nav{
-   display: flex;
-   background: #BFBFE7;
-   border:solid 3px black;
-   }
-   
-   .link{
-       margin: auto;
-       }
-   
-   img{
-       border: solid 5px #8360AB
-   }
-   
-   main{
-   text-align: center;
-   font-family: cardinal;
-   color:#F9F4FF;
-   }
-   
-   li{
-       color: #8191CE
-   }
-   
-   .Me{
-       background: #896FA5
-   }   
+ background-color:#273469; 
+}
+
+header {
+    text-align: center;
+    color: #BAA1FA;
+    font-family: cardinal;
+    }
+    
+nav{
+display: flex;
+background: #BFBFE7;
+border:solid 3px black;
+}
+
+.link{
+    margin: auto;
+    }
+
+img{
+    border: solid 5px #8360AB;
+    max-width: 60%
+}
+
+main{
+text-align: center;
+font-family: cardinal;
+color:#F9F4FF;
+}
+
+h2{
+    text-align: center
+}
+
+li{
+    color: #8191CE
+}
+
+.Me{
+    background: #896FA5;
+    text-align: left;
+    border: solid 3px #F9F4FF;
+    margin: 0 10%
+}
+
+.IT{
+     background: #9292F0;
+    text-align: left;
+    border: solid 3px #F9F4FF;
+    margin: 0 10%
+}
+
+
+.Job{
+    background: #4CA7C1;
+    text-align: left;
+    border: solid 3px #F9F4FF;
+    margin: 0 10%;}
